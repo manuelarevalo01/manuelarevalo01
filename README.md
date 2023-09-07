@@ -28,6 +28,8 @@ I am an electronic engineer and telecommunications specialist graduated from the
 [![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat&logo=Gmail)](mailto:manferare1@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-black?style=flat&logo=Microsoft-Outlook)](mailto:manferare@hotmail.com)
 
+ <img width="55%" align="right" alt="Sachin's github stats" src="https://github-readme-stats.vercel.app/api?username=manuelarevalo01&show_icons=true&theme=dark"/>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=manuelarevalo01&theme=dark)](https://git.io/streak-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelarevalo01&theme=dark&hide=jupyter%20notebook&show_icons=true)](https://github.com/manuelarevalo01/github-readme-stats)
 
