@@ -28,6 +28,7 @@ I am an electronic engineer and telecommunications specialist graduated from the
 [![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat&logo=Gmail)](mailto:manferare1@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-black?style=flat&logo=Microsoft-Outlook)](mailto:manferare@hotmail.com)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=manuelarevalo01)](https://git.io/streak-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelarevalo01&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/manuelarevalo01/github-readme-stats)
 
 <!--
