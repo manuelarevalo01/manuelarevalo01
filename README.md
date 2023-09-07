@@ -41,7 +41,7 @@ I am an electronic engineer and telecommunications specialist graduated from the
 
 
 <hr style="height: 10px;"/>
-![Profile visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
 <!--
 **manuelarevalo01/manuelarevalo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
