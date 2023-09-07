@@ -37,7 +37,7 @@ I am an electronic engineer and telecommunications specialist graduated from the
  
 <img src="https://streak-stats.demolab.com/?user=manuelarevalo01&theme=onedark">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelarevalo01&theme=onedark&hide=jupyter%20notebook&show_icons=true&layout=donut-vertical)">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelarevalo01&theme=onedark&hide=jupyter%20notebook&show_icons=true&layout=donut-vertical">
 </p>
 <p align="center"> 
   Visitor count<br>
