@@ -1,6 +1,5 @@
 ### Hi there, I’m Manuel Fdo. Arévalo Navarro 👋🧑‍💻
 ![About Me](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
-
  ## 💡About Me: 
  
 I am an electronic engineer and telecommunications specialist graduated from the Universidad Industrial de Santander, currently I work as a Web Developer with Frontend technologies. The last 2 years I acquired and evolved my skills as a web developer through learning and developing projects both individually and in collaborative environments, participating in the design and layout of interfaces. This knowledge is complemented by a technical background of 7 years of experience in electronic engineering for different companies where I have supported, coordinated and led teams in different projects, overcoming obstacles, solving conflicts, and always adapting to new technologies of each position and the market.
@@ -19,7 +18,7 @@ I am an electronic engineer and telecommunications specialist graduated from the
 ### 🖇️Others
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Figma]([https://img.shields.io/badge/figma-black?style=flat-square&logo=figma&logoColor=white])
+![Figma](https://img.shields.io/badge/figma-black?style=flat-square&logo=figma&logoColor=white)
 
 
 <!--
