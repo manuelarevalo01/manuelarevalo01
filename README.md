@@ -39,6 +39,9 @@ I am an electronic engineer and telecommunications specialist graduated from the
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelarevalo01&theme=onedark&hide=jupyter%20notebook&show_icons=true&layout=donut-vertical)](https://github.com/manuelarevalo01/github-readme-stats)
 
+
+<hr style="height: 10px;"/>
+![Profile visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
 <!--
 **manuelarevalo01/manuelarevalo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
