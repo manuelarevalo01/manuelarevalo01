@@ -9,11 +9,11 @@ I am an electronic engineer and telecommunications specialist graduated from the
 
 ### 💻 Frontend languages
 
-![HTML5](https://img.shields.io/badge/-HTML5?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript?style=flat-square&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap?style=flat-square&logo=bootstrap)
-![SCSS](https://img.shields.io/badge/-SCSS?style=flat-square&logo=SASS)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat-square&logo=Vue.js)
 
 ### 🖇️ Others
