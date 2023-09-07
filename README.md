@@ -15,11 +15,11 @@ I am an electronic engineer and telecommunications specialist graduated from the
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat-square&logo=Vue.js)
-![Figma]([https://img.shields.io/badge/figma-black?style=flat-square&logo=figma&logoColor=white])
 
 ### 🖇️Others
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Figma]([https://img.shields.io/badge/figma-black?style=flat-square&logo=figma&logoColor=white])
 
 <!--
 **manuelarevalo01/manuelarevalo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
