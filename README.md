@@ -28,7 +28,10 @@ I am an electronic engineer and telecommunications specialist graduated from the
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&)](https://www.instagram.com/manferare1/)
 [![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat&logo=Gmail)](mailto:manferare1@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-black?style=flat&logo=Microsoft-Outlook)](mailto:manferare@hotmail.com)
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/manuelarevalo01/count.svg" />
+</p>
 <hr style="height: 10px;"/>
 
 ## 🔢 Github statistics
@@ -39,10 +42,6 @@ I am an electronic engineer and telecommunications specialist graduated from the
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelarevalo01&theme=onedark&hide=jupyter%20notebook&show_icons=true&layout=donut-vertical)](https://github.com/manuelarevalo01/github-readme-stats)
 
-
-<hr style="height: 10px;"/>
-#### Thanks for visiting ✌️
-![VisitorCount](https://profile-counter.glitch.me/manuelarevalo01/count.svg)
 <!--
 **manuelarevalo01/manuelarevalo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
