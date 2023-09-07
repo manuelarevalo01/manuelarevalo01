@@ -21,12 +21,14 @@ I am an electronic engineer and telecommunications specialist graduated from the
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/figma-black?style=flat-square&logo=figma)
 
-### 📫 Where to find me
+## 📫 Where to find me
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/manuelarevalo01)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=Linkedin)](https://www.linkedin.com/in/manuel-fernando-ar%C3%A9valo-navarro-9242b3138/)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&)](https://www.instagram.com/manferare1/)
 [![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat&logo=Gmail)](mailto:manferare1@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-black?style=flat&logo=Microsoft-Outlook)](mailto:manferare@hotmail.com)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinchaturvedi93&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/manuelarevalo01/github-readme-stats)
 
 <!--
 **manuelarevalo01/manuelarevalo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
