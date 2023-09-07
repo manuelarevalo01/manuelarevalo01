@@ -9,7 +9,7 @@ I am an electronic engineer and telecommunications specialist graduated from the
 
 ### 💻 Frontend languages
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
@@ -19,14 +19,14 @@ I am an electronic engineer and telecommunications specialist graduated from the
 ### 🖇️ Others
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Figma](https://img.shields.io/badge/figma-black?style=flat-square&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-black?style=flat-square&logo=figma)
 
 ### 📫 Where to find me
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/manuelarevalo01)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-fernando-ar%C3%A9valo-navarro-9242b3138/)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/manferare1/)
-[![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat&logo=Gmail&logoColor=white)](mailto:manferare1@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-black?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:manferare@hotmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=Linkedin)](https://www.linkedin.com/in/manuel-fernando-ar%C3%A9valo-navarro-9242b3138/)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&)](https://www.instagram.com/manferare1/)
+[![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat&logo=Gmail)](mailto:manferare1@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-black?style=flat&logo=Microsoft-Outlook)](mailto:manferare@hotmail.com)
 
 <!--
 **manuelarevalo01/manuelarevalo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
