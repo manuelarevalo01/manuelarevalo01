@@ -14,8 +14,8 @@ I am an electronic engineer and telecommunications specialist graduated from the
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![Vue.js](https://img.shields.io/badge/-VueJS-333333-black?style=flat&logo=Vue.js)
-![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg-black?style=flat&logo=figma&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=Vue.js)
+![Figma](https://img.shields.io/badge/figma-black?style=flat-square&logo=figma&logoColor=white)
 
 ### 🖇️Others
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
