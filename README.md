@@ -29,7 +29,7 @@ I am an electronic engineer and telecommunications specialist graduated from the
 [![Outlook](https://img.shields.io/badge/-Outlook-black?style=flat&logo=Microsoft-Outlook)](mailto:manferare@hotmail.com)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=manuelarevalo01&theme=dark)](https://git.io/streak-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelarevalo01&theme=dark&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/manuelarevalo01/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelarevalo01&theme=dark&hide=jupyter%20notebook&show_icons=true)](https://github.com/manuelarevalo01/github-readme-stats)
 
 <!--
 **manuelarevalo01/manuelarevalo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
