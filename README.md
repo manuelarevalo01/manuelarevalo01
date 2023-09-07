@@ -34,8 +34,9 @@ I am an electronic engineer and telecommunications specialist graduated from the
 ## 🔢 Github statistics
 <p align="center"> 
  <img width="58%" align="center" alt="Sachin's github stats" src="https://github-readme-stats.vercel.app/api?username=manuelarevalo01&show_icons=true&theme=onedark"/>
- 
-<img src="https://streak-stats.demolab.com/?user=manuelarevalo01&theme=onedark">
+ </p>
+ <p align="center"> 
+<img src="https://streak-stats.demolab.com/?user=manuelarevalo01&theme=onedark">  
 </p>
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelarevalo01&theme=onedark&hide=jupyter%20notebook&show_icons=true&layout=donut-vertical">
